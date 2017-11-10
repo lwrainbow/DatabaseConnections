@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Contacts</title>
+    <link rel="stylesheet" type="text/css" href="css/home_page.css">
+</head>
+
+<body>
+        <h1>You can choose:</h1>
+        <ul>
+            <li><a href="php/add_person.php">Add new person</a></li>
+            <li>
+                <details>
+                    <summary>View existing people</summary>
+                    <p><a href="php/read_txt.php">Display someone from a file</a></p>
+                    <p><a href="php/read_database.php">Display someone from the database</a></p>
+                </details>
+            </li>
+            <li>
+                <details>
+                    <summary>Delete a person</summary>
+                    <p><a href="php/delete_txt.php">Delete a person from a file</a></p>
+                    <p><a href="php/delete_database.php">Delete a person from the database</a></p>
+                </details>
+            </li>
+            <!--<li>Edit a person</li>-->
+        </ul>
+</body>
+</html>
