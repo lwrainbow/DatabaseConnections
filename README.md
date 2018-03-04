@@ -1,5 +1,5 @@
 # Database Connections
-<p><a href="http://lianxiao.dev.fast.sheridanc.on.ca/xiaoyu/DatabaseConnections/index.html">Try it</a></p>
+<p><a href="http://lianxiao.dev.fast.sheridanc.on.ca/xiaoyu/DatabaseConnections/index.html">Demo</a></p>
 <p>This project use SurveyWithSessions as base. Add database support for my forms.</p>
 <ul>
     <li>Creat a home page, index.html, which gives the user several options:</li>
